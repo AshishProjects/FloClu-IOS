@@ -1,4 +1,4 @@
-# FloClu-backend
+# FloClu-IOS
 ## Personalised Menstruation Application to let women stay free.
 
 # About

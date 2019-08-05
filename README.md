@@ -15,4 +15,10 @@ product can send alert to users and take help from users nearby.
       - GoogleSignIn
       -JTAppleCalendar
       - Firebase Firestore
+      
+## CONTRIBUTERS
+### [SHIVA MALL](https://github.com/Shivamall)
+### [SAGAR KALYAN](https://github.com/sagarkalyan)
+### [Harmanpreet Gill](https://github.com/iamharmangill)
+
 
